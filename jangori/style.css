@@ -1,0 +1,120 @@
+body {
+    font-family: 'Noto Sans Japanese', serif;
+    max-width:640px;
+    margin: 0 auto;
+    font-family: 'Stick', sans-serif;
+}
+
+.text-center {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img_top {
+    max-height: 350px;
+    max-width: 400px;
+}      
+
+.image_top_div {
+    justify-content: center;
+    text-align: center;
+}
+
+.mic {
+    font-size: 20px;
+}
+ 
+.btn {
+    justify-content: center;
+    width: 240px;
+    margin: 0 0 30px;
+    padding: 20px 0;
+    background-color: #ffd61A;
+    color:#fff;
+    text-align: center;
+    font-size: 24px;
+}
+
+.btn-koshin {
+    justify-content: center;
+    width: 200px;
+    margin: 0 0 30px;
+    padding: 20px 0;
+    background-color: gray;
+    color:#fff;
+    text-align: center;
+    font-size: 20px;
+}
+
+.text-guide {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.text-title-q {
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.text-q {
+    font-size: 18px;
+    text-align: left;
+    color: gray;
+}
+
+.talk-list-wrap {
+    text-align: center;
+    background-color:lemonchiffon;
+}
+
+.talk-list {
+    margin: auto;
+    width: 400px;
+}
+
+.alert {
+    color: red;
+    font-size: 22px;
+    text-align: center;
+}
+
+#content{
+    margin: 0 auto;
+    width:300px;
+    height: 200px;
+    padding:20px;
+    position: relative;
+}
+
+#box{
+    position: absolute;
+    top: 75px;
+    right:125px;
+    width:50px;
+    height:50px;
+    background-color:#ddd;
+}
+
+#text{
+    margin-top:40px;
+    font-size:20px;
+}
+
+footer{
+    margin-top: 50px;
+    text-align: center;
+}
+
+p{
+    font-size:180%;
+    text-align: center;
+}
+
+.gorilla-say {
+    font-size: 80%;
+    text-align: right;
+    color: gray;
+}
+
+
